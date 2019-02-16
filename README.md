@@ -1,10 +1,10 @@
-# Increase Front End Test
+# React Notes
 
 ## How to run
 
-- Unzip or clone the project
+- Clone the repository
 - Move to project directory
-- Run `npm install`
+- Run `npm install` to install project dependencies
 - Run `npm start` - React run on port 3000 unless you are using it, CLI ask for use another port.
 
 # How to see
